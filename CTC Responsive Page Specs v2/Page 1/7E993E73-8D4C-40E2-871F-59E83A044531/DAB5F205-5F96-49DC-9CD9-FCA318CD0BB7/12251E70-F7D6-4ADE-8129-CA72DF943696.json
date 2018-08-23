@@ -1,0 +1,66 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "12251E70-F7D6-4ADE-8129-CA72DF943696",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "ACBE9619-BA3E-4C53-9E34-90BB7318CC89",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "488CFB08-91AB-4A8C-9B52-47F22C79BE70",
+    "height": 188,
+    "width": 224,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Gallery Card Genre 16 x 10 M—L Copy 18",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5D8D2938-FD23-4DEB-A804-8575D11571B9",
+      "overrideName": "A6865FD2-2D3F-4584-9226-52D46078C929_stringValue",
+      "value": "Supernatural"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A6E85B24-2DA3-4813-93B7-F4706CE23ACE",
+      "overrideName": "0532AE7E-2A8D-4287-96A9-D1B50FC82423_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/beedc56d5419b214cdffabafd8d8eccf9ccd3e00.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "AF43B002-C9F8-4A82-97A4-25BD6C310C32",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "57CD4DDF-C9E6-4B54-A54D-50A92C512B02",
+  "verticalSpacing": 0
+}

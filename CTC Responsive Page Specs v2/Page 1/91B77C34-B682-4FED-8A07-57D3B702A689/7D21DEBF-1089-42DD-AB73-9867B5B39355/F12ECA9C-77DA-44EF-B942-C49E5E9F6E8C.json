@@ -1,0 +1,50 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "F12ECA9C-77DA-44EF-B942-C49E5E9F6E8C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "786DFE05-6C08-477C-97B5-7F234DD53E12",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "14CA4E3D-D0FC-4521-AD10-02A9B75E2039",
+    "height": 24,
+    "width": 24,
+    "x": 0,
+    "y": 16
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Play button Copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6CAABFC2-0114-4B4B-AE7C-B935B87DA4DA",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A17D4EF0-9D12-4699-8D2D-FC7D00839B9D",
+  "verticalSpacing": 0
+}

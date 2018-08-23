@@ -1,0 +1,66 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "4D1F32E7-1C36-46E2-AB6A-15C46B603C0A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6794F6B3-1B11-40E9-BA74-5556995D7457",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E909F364-99AF-45CA-AF44-ABF4AF84A170",
+    "height": 189,
+    "width": 225,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Gallery Card Genre 16 x 10 M—L Copy 21",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5D8D2938-FD23-4DEB-A804-8575D11571B9",
+      "overrideName": "A6865FD2-2D3F-4584-9226-52D46078C929_stringValue",
+      "value": "Weird"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BB27EB7D-DAE7-41B0-BEC7-8C7C6AA6675A",
+      "overrideName": "0532AE7E-2A8D-4287-96A9-D1B50FC82423_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/2e14ae796a3f86a92bec65d366cec49cc0082f26.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B06CB562-A0F8-455F-828F-3CC4D9C8CD3C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "57CD4DDF-C9E6-4B54-A54D-50A92C512B02",
+  "verticalSpacing": 0
+}

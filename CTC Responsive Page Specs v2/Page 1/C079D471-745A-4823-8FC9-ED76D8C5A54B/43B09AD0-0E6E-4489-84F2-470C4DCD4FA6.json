@@ -1,0 +1,72 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "43B09AD0-0E6E-4489-84F2-470C4DCD4FA6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "91E548B2-2C4A-4F4C-BCBD-6C2D682AEBFB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A4093596-BE64-4D00-A228-F0A3D2165ED6",
+    "height": 198,
+    "width": 224,
+    "x": -1,
+    "y": 1750
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Gallery Card 16:9 Video Book",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "04330162-BC4D-4D7C-9214-C36EC8A80FE2",
+      "overrideName": "A0168E72-5F17-4EB3-A0DA-6D257839D658_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/014b6d9a815f55978886b4627beb092e39d759f8.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "478C2208-3F37-4007-969F-22BC65F4623D",
+      "overrideName": "9FD2BC87-5EEC-4D37-A3AB-55B61FD70AAD_stringValue",
+      "value": "Henry Bob Bobbalich (Video book)"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "EE24A5E6-1439-4FE4-A521-DAFAECAC2862",
+      "overrideName": "F75865B5-EC22-41A7-8351-2A13801F8CF9_stringValue",
+      "value": "Juliette MacIver"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F87BFB90-8B03-4916-B169-3B0A5F93D72B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "75F01117-C8A7-4FAA-9011-C347F5C8F829",
+  "verticalSpacing": 0
+}

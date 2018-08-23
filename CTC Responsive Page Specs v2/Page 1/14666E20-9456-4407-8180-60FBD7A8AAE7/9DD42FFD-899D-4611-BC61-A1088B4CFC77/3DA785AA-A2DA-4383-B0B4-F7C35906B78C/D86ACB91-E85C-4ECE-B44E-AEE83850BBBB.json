@@ -1,0 +1,72 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "D86ACB91-E85C-4ECE-B44E-AEE83850BBBB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "09E21543-5011-4A0A-870E-1010103F91DF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1B39B9CE-BFC4-4109-B49D-1233FA61F8F9",
+    "height": 328,
+    "width": 160,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Gallery Card H 1.5xW M—L Copy 4",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1C138E37-19BB-4E61-B1A1-13F4A103423B",
+      "overrideName": "F1210C0F-1CF5-4BD9-BF47-C986186E71C1_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/b9df5f1b10c979f914ab08b16c94da26564cad1d.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "41C20CCC-32F9-4930-B3E9-57E3DC998656",
+      "overrideName": "9071C35E-C7A7-4753-8ED7-6C636B6D5488_stringValue",
+      "value": "Juliette MacIver"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F8837399-7354-4306-9511-50EB9A85268C",
+      "overrideName": "6BF8B0CD-7F9C-44A1-A764-48AB2DDE8EA7_stringValue",
+      "value": "Henry Bob Bobbalich"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9A2E0941-2689-4310-8595-8712D698FD3B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "235E168D-D721-42FD-9DD3-E33CEE209BF2",
+  "verticalSpacing": 0
+}

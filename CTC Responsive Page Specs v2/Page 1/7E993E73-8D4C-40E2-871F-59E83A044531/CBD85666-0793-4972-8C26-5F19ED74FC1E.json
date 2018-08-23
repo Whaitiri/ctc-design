@@ -1,0 +1,76 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "CBD85666-0793-4972-8C26-5F19ED74FC1E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1510BEB6-FE7E-448F-9ABF-16DE456B4CE6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "23F54791-8A7A-435B-8AB7-C0148FDF341D",
+    "height": 189,
+    "width": 224,
+    "x": 25,
+    "y": 528
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Gallery Card Genre 16 x 10 M—L Copy 27",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B3B443FD-6BA8-43EA-BF9F-E236AC14E53F",
+      "overrideName": "A6865FD2-2D3F-4584-9226-52D46078C929_stringValue",
+      "value": "Bullying"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "933B2897-1D6D-40DA-B0A7-7CB2F69FFA5D",
+      "overrideName": "70674881-4822-4FC9-9479-99C5E991855D_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/f761b6fab559c9c61ce71c807392ed33fb804127.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BC750E36-35FC-4837-AC89-8AAB8D867989",
+      "overrideName": "0532AE7E-2A8D-4287-96A9-D1B50FC82423_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/f761b6fab559c9c61ce71c807392ed33fb804127.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "064438E5-ABD8-4CF3-9498-5E7BF6E1C73F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "57CD4DDF-C9E6-4B54-A54D-50A92C512B02",
+  "verticalSpacing": 0
+}

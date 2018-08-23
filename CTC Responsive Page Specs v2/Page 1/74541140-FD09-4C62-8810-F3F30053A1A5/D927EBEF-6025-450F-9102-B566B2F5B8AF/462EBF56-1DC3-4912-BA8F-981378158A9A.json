@@ -1,0 +1,52 @@
+{
+  "_class": "bitmap",
+  "booleanOperation": 0,
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "462EBF56-1DC3-4912-BA8F-981378158A9A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4C6569D3-2860-4A7A-B313-74171A08ADF3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "E30F387B-FD55-4664-8307-D19114076F67",
+    "height": 255,
+    "width": 350,
+    "x": -154,
+    "y": -34
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/438f75d8cef91cf7197801bda7c2b516d9982ce7.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 72,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "hairy-maclary-opera-house-hairy-maclary-and-friend",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5F01E8F4-5CCC-46C1-8845-130C3227925B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

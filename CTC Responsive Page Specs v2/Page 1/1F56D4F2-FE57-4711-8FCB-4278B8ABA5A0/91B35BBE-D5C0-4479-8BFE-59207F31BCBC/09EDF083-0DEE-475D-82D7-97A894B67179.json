@@ -1,0 +1,66 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "09EDF083-0DEE-475D-82D7-97A894B67179",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "18C3625E-FD05-4B21-A7ED-5721074FED4E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "38E22239-1FBD-4EBA-947B-C28012BB2A6A",
+    "height": 189,
+    "width": 225,
+    "x": 1,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Gallery Card Genre 16 x 10 M—L Copy 14",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B3B443FD-6BA8-43EA-BF9F-E236AC14E53F",
+      "overrideName": "A6865FD2-2D3F-4584-9226-52D46078C929_stringValue",
+      "value": "Grandparents"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6B4EA22D-3EB3-4102-9081-723DD52F8906",
+      "overrideName": "0532AE7E-2A8D-4287-96A9-D1B50FC82423_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/fc04553908bcbb14f79f4a7b07fcb5fbdce2f434.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "900D38D2-1BC4-417C-AE62-7206852B7469",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "57CD4DDF-C9E6-4B54-A54D-50A92C512B02",
+  "verticalSpacing": 0
+}

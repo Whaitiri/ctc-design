@@ -1,0 +1,82 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "80E79C22-B21F-44BF-84C8-1C10011F5B7D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3B177818-B4E2-4A2F-B6CB-C037FC31FF21",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "ECE3440D-5722-404F-9C3B-F0FB2947D108",
+    "height": 260,
+    "width": 125,
+    "x": 132,
+    "y": 1425
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Gallery Card H 1.5xW Copy 9",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B7892839-B444-41C6-A8C0-5577360016E5",
+      "overrideName": "B08AEAAC-A594-4063-8011-3909C5868A58_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/07a898f3290dfb7bd684d6b8b0fea996751d6c4c.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5C2179A9-3D12-4DD0-8F7B-C8EC3AABE1F9",
+      "overrideName": "A8E8EB87-7136-47DB-A579-F9EF2392E1E1_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/2e14ae796a3f86a92bec65d366cec49cc0082f26.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C6DA50A6-2FD2-4F18-880D-87E260F3BD01",
+      "overrideName": "F188575B-93DD-4E47-966D-F12BDE178D97_stringValue",
+      "value": "Little Red Riding Hood (Not Quite)"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "97DBFA22-5612-4F93-ACED-9236834ECCA3",
+      "overrideName": "781E4209-CAB5-4F5A-986A-65D3241B2365_stringValue",
+      "value": "Yvonne Morrison"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2A976AA2-7321-461E-B160-C5C7B60EBFE1",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "1546AEE3-B1BD-438C-95F1-98A0B96090E5",
+  "verticalSpacing": 0
+}

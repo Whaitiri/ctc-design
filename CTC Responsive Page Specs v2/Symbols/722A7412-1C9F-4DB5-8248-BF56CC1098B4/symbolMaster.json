@@ -1,0 +1,104 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "137DECA1-1E55-42FE-859C-729FCC0FE063",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 852,
+  "do_objectID": "722A7412-1C9F-4DB5-8248-BF56CC1098B4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A3F7431C-0C37-400F-8E39-451D1225D67E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "14F650D7-1C62-416E-8295-74002B3D989E",
+    "height": 49,
+    "width": 320,
+    "x": 1068,
+    "y": 144
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "950CF897-B569-4772-B36D-D928963B8D21",
+    "gridSize": 8,
+    "isEnabled": false,
+    "thickGridTimes": 3
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "05929FD4-F87A-40FD-838A-3134BCEB5B28",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "6A95CCDD-3EC4-4238-BF9C-226F3534B04D"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 38,
+    "do_objectID": "1E6CC4F3-269E-432A-848A-DA466F95BB86",
+    "drawHorizontal": true,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 24,
+    "gutterWidth": 24,
+    "guttersOutside": false,
+    "horizontalOffset": 24,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 1,
+    "totalWidth": 720
+  },
+  "name": "/RNZ/ Header 320",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "112189F0-F67B-4A27-B11D-41997AD78C54",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "9F816FF5-10F2-478C-92C5-58AD0FB5EA38",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "C247FD9D-B414-422B-BF11-F8C70A1C53E5",
+    "guides": [
+    ]
+  }
+}

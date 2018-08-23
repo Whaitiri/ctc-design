@@ -1,0 +1,60 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "A5574C85-3FFE-4858-9E9D-36B1B851A177",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D49EC437-262D-427B-9F06-990369EA88E5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0ADFE4B1-4D0A-4D58-B0A6-3A402FB7712E",
+    "height": 214.9400024414062,
+    "width": 143.999213458282,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Gallery Card H 1.5xW Image Only",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A9968DB9-BF83-4DA9-B73B-BCFBCB020F20",
+      "overrideName": "9D2BC979-A33E-414B-96A3-5FB05A154022_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/b0c82bb5f432506db933c6ffdc622e885ac9e0a7.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B92F8B90-AC71-4481-9EEA-37DF7C4FA120",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "E9AC98BE-205A-432F-A933-75182427B5D2",
+  "verticalSpacing": 0
+}

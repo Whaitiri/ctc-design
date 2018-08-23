@@ -1,0 +1,55 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "72E34D6E-8C29-48FF-BDF2-5CAD12AC9C1B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A38219DB-2F0E-476C-9E96-759BEDF7D689",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "EDF920BC-6D65-42A7-96C8-EB3D4B6DD2D6",
+    "height": 328,
+    "width": 160,
+    "x": 906,
+    "y": 714
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "1686AB4A-63B4-4BC4-BB0F-CACA6C2B99CB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "795102CB-AEEC-4341-A298-3B7915C0A888"
+    }
+  ],
+  "name": "Group 6 Copy 10",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B2F39DEB-A871-492D-A622-D4DAE0DB0C8E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

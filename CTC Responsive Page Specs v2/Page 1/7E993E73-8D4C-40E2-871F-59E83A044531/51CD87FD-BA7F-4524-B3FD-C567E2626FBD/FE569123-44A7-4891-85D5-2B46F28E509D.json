@@ -1,0 +1,76 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "FE569123-44A7-4891-85D5-2B46F28E509D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "92D508B3-FB43-45B4-A88D-4B5EDD4E04BA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "AD443289-BF40-4CBA-9315-68244F289BDA",
+    "height": 188,
+    "width": 224,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Gallery Card Genre 16 x 10 M—L Copy 5",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "12F80475-548D-433C-82E1-5F1E600CF4F9",
+      "overrideName": "A6865FD2-2D3F-4584-9226-52D46078C929_stringValue",
+      "value": "Death"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F6E9921F-32B7-46ED-85AB-63615C859C2D",
+      "overrideName": "70674881-4822-4FC9-9479-99C5E991855D_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/fa9b423c1701e9158244935891142cac4487c2c5.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CF27DABB-8D7F-4BEA-80B5-AFDDBFC24DAD",
+      "overrideName": "0532AE7E-2A8D-4287-96A9-D1B50FC82423_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/fa9b423c1701e9158244935891142cac4487c2c5.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4027D31E-6F38-41E7-A8A4-ED5A3FEE10BE",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "57CD4DDF-C9E6-4B54-A54D-50A92C512B02",
+  "verticalSpacing": 0
+}

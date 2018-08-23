@@ -1,0 +1,74 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "4F792604-A294-4776-8371-3B5E9BE948B0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9614444A-50BC-49CE-923A-5BF4BB790DB2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A3084AD9-E440-42E8-8DCC-E230038D1D7E",
+    "height": 228,
+    "width": 271,
+    "x": 24,
+    "y": 245
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Gallery Card Genre 16 x 10 M—L Copy 27",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "A6865FD2-2D3F-4584-9226-52D46078C929_stringValue",
+      "value": "Adventure"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "70674881-4822-4FC9-9479-99C5E991855D_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/beedc56d5419b214cdffabafd8d8eccf9ccd3e00.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "913302E4-FFDD-455A-BB4B-2E7DBDDE7808",
+      "overrideName": "0532AE7E-2A8D-4287-96A9-D1B50FC82423_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/beedc56d5419b214cdffabafd8d8eccf9ccd3e00.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F86E1D7D-6C06-402C-A73B-89391C008E7F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "57CD4DDF-C9E6-4B54-A54D-50A92C512B02",
+  "verticalSpacing": 0
+}

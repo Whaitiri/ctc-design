@@ -1,0 +1,82 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "C38E6FC4-FFD2-4929-A09E-A8BD91A13C24",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D75CB412-13BE-4C7B-86F0-FD5FDA21C849",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3BA104F0-0CF2-40E8-A3DE-50AD8445F975",
+    "height": 260,
+    "width": 125,
+    "x": 266,
+    "y": 885
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Gallery Card H 1.5xW Copy 5",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B7892839-B444-41C6-A8C0-5577360016E5",
+      "overrideName": "B08AEAAC-A594-4063-8011-3909C5868A58_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/07a898f3290dfb7bd684d6b8b0fea996751d6c4c.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5C2179A9-3D12-4DD0-8F7B-C8EC3AABE1F9",
+      "overrideName": "A8E8EB87-7136-47DB-A579-F9EF2392E1E1_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/15c123a1b74cd360b110389b8bd428193f050eee.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "464553A2-8D8B-4BF4-BF4E-AA3E5CA3D8C1",
+      "overrideName": "F188575B-93DD-4E47-966D-F12BDE178D97_stringValue",
+      "value": "What are You supposed to Be?"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A3AA1280-EDD5-4B7D-8E4E-4D08C9D1A9A8",
+      "overrideName": "781E4209-CAB5-4F5A-986A-65D3241B2365_stringValue",
+      "value": "Paul Beavis"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9CAC528A-20E7-43BB-A748-B1471C67C9FB",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "1546AEE3-B1BD-438C-95F1-98A0B96090E5",
+  "verticalSpacing": 0
+}

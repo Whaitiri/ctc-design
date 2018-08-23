@@ -1,0 +1,55 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "03301A08-9E1B-4B4F-988C-2A477761D85D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6A790BF6-F135-4144-9E7A-0FB4B82F5CEA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7B389623-D733-40B1-935D-D0C31E9EEC6D",
+    "height": 160,
+    "width": 160,
+    "x": 554,
+    "y": 400
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "F6392A8E-31C6-4D95-B2E5-2B30AD958CDB"
+    },
+    {
+      "class": "bitmap",
+      "id": "1E36918E-4392-4202-BAAC-A9C076942383"
+    }
+  ],
+  "name": "four_col_Northwood_by_Brian_Falkner_book_cover Copy 4",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E1B82E33-3FD1-4BC1-81AB-E68BB9F56BC8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

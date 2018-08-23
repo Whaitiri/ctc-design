@@ -1,0 +1,82 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "57807642-6D02-4566-83D9-894CDD2448E3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "678BE649-2551-4B76-904E-69F8F456D101",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7E8DD1B4-F43E-465F-A512-5B839C4992E5",
+    "height": 329,
+    "width": 160,
+    "x": 460,
+    "y": 993
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Gallery Card H 1.5xW Copy 14",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B7892839-B444-41C6-A8C0-5577360016E5",
+      "overrideName": "B08AEAAC-A594-4063-8011-3909C5868A58_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/07a898f3290dfb7bd684d6b8b0fea996751d6c4c.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5C2179A9-3D12-4DD0-8F7B-C8EC3AABE1F9",
+      "overrideName": "A8E8EB87-7136-47DB-A579-F9EF2392E1E1_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/6e6a57e738f25bbd9236030b214d68c0c08c6810.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D55C6C60-6492-4BE1-B254-7FCEAF3C5555",
+      "overrideName": "781E4209-CAB5-4F5A-986A-65D3241B2365_stringValue",
+      "value": "Juliette MacIver & …"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "547E7232-5964-4056-BACE-F2B51EE61189",
+      "overrideName": "F188575B-93DD-4E47-966D-F12BDE178D97_stringValue",
+      "value": "We're Off to Find a Kiwi"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DE29F35C-CAAF-4178-AA8E-2360E51B965E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "1546AEE3-B1BD-438C-95F1-98A0B96090E5",
+  "verticalSpacing": 0
+}

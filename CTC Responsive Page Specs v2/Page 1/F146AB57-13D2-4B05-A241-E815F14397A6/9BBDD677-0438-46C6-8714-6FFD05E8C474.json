@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "9BBDD677-0438-46C6-8714-6FFD05E8C474",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "79538501-D220-4835-B48B-82F9ECC67E40",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "682EFA02-AED1-42E5-B570-E3C23A080849",
+    "height": 56,
+    "width": 320,
+    "x": 0,
+    "y": 769
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Chapter full-width list block / Secondary play button Copy 3",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DC3160B6-4B24-400A-9F76-F067F21E2EEC",
+      "overrideName": "B6CCDB7E-F0C1-49BD-9A6B-CA0616B988DF_stringValue",
+      "value": "Chapter 4"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1E2643FA-DA99-4754-98B2-92A0C37A7970",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "DB8A800E-A5CC-4676-8FF6-EEF59A14A830",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,50 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "ACF3F7B2-B46A-4BE9-8187-9CBDC29A8EA3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BC87641E-38B5-4D4C-8228-79393D13A010",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1DE3891A-ECCA-48E3-A05E-1FD452FD8DA0",
+    "height": 16,
+    "width": 16,
+    "x": 605,
+    "y": 178
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Icon/UI/search--glyph",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 360,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C1730375-7DA9-4899-BAD1-4F48C4ADFD49",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "BD5B85B8-1154-4F47-B062-290036377E89",
+  "verticalSpacing": 0
+}

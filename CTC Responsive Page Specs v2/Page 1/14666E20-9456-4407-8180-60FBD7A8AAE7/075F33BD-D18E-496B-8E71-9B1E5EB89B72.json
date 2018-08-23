@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "075F33BD-D18E-496B-8E71-9B1E5EB89B72",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "98C64607-1110-4835-BFA0-AC408C67C657",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "965E0CC7-911D-41AE-B716-EBA1C0781223",
+    "height": 57,
+    "width": 643,
+    "x": 190,
+    "y": 817
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "/Chapter Play List/ 1024 Copy 4",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "31E921E5-4706-4421-9BA3-64644A903365",
+      "overrideName": "3F90BA39-6F78-4BA1-BA30-F301BBB5A358_stringValue",
+      "value": "Chapter 1"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8011436C-1430-46BE-B082-794187A3A574",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "369C9184-CB0F-4F1C-BC7E-95F8549057D7",
+  "verticalSpacing": 0
+}

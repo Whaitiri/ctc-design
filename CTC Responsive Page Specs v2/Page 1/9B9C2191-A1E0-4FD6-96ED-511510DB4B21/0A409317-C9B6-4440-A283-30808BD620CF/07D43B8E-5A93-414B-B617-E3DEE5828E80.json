@@ -1,0 +1,82 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "07D43B8E-5A93-414B-B617-E3DEE5828E80",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "837F0271-FDB2-4D38-9F08-7517D96ACE07",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B46DF01F-EE30-4884-B60A-C8C06A35F8F1",
+    "height": 328,
+    "width": 160,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Gallery Card H 1.5xW M—L Copy 4",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1C138E37-19BB-4E61-B1A1-13F4A103423B",
+      "overrideName": "F1210C0F-1CF5-4BD9-BF47-C986186E71C1_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/b9df5f1b10c979f914ab08b16c94da26564cad1d.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "41C20CCC-32F9-4930-B3E9-57E3DC998656",
+      "overrideName": "9071C35E-C7A7-4753-8ED7-6C636B6D5488_stringValue",
+      "value": "Brian Falkner"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F8837399-7354-4306-9511-50EB9A85268C",
+      "overrideName": "6BF8B0CD-7F9C-44A1-A764-48AB2DDE8EA7_stringValue",
+      "value": "Northwood"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7D62FEEC-1236-49B5-B2FB-CD4B395787BF",
+      "overrideName": "EC15D3E8-4D87-4C6D-BED7-968ADD072F95_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/02bf86502e6fd2d1f49ec1bb72404277bbbef40a.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "944BA95E-C21C-41FE-8084-FE6B95A456AA",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "235E168D-D721-42FD-9DD3-E33CEE209BF2",
+  "verticalSpacing": 0
+}

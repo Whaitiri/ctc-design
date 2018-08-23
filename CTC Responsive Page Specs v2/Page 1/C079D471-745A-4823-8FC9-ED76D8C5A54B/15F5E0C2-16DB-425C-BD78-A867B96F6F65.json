@@ -1,0 +1,82 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "15F5E0C2-16DB-425C-BD78-A867B96F6F65",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D8D5252B-8327-4DEC-85C2-A23769FF5397",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7089AD63-79A5-42AA-83B5-1F24033EDAD5",
+    "height": 260,
+    "width": 125,
+    "x": 265,
+    "y": 453
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Gallery Card H 1.5xW Copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B7892839-B444-41C6-A8C0-5577360016E5",
+      "overrideName": "B08AEAAC-A594-4063-8011-3909C5868A58_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/07a898f3290dfb7bd684d6b8b0fea996751d6c4c.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5C2179A9-3D12-4DD0-8F7B-C8EC3AABE1F9",
+      "overrideName": "A8E8EB87-7136-47DB-A579-F9EF2392E1E1_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/9ae7f83887d7686b4638599da4e6f42fa69008b3.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "464553A2-8D8B-4BF4-BF4E-AA3E5CA3D8C1",
+      "overrideName": "F188575B-93DD-4E47-966D-F12BDE178D97_stringValue",
+      "value": "Stan The Van Man"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A3AA1280-EDD5-4B7D-8E4E-4D08C9D1A9A8",
+      "overrideName": "781E4209-CAB5-4F5A-986A-65D3241B2365_stringValue",
+      "value": "Emma Vere-Jones &"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F10F3CF6-6950-4214-AB61-417A55A6BE40",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "1546AEE3-B1BD-438C-95F1-98A0B96090E5",
+  "verticalSpacing": 0
+}

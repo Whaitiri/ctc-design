@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "26798AC9-67C1-4669-8B7F-D7BD71DFD982",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4629DF5C-75C8-4C4B-83C5-C95F9727B8A4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9FFB2F74-5067-42A5-B3CE-C6D34A1D77AA",
+    "height": 44,
+    "width": 320,
+    "x": 0,
+    "y": 409
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Category header / more Copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "33435EA8-BE8B-4463-9ECF-7E703E1311AB",
+      "overrideName": "945EBCEC-EFA7-43B3-A0DD-2F5B8B76C055_stringValue",
+      "value": "Everyone's listening"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F371611E-3C12-4927-B227-F7F069321CAB",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "5EE6B61F-1602-48C6-9F71-57BD052B4506",
+  "verticalSpacing": 0
+}
